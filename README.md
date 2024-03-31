@@ -1,4 +1,4 @@
 # Myfirst-demo
 This is my first Git Repository.
 <br>
-Author - Harshikesh Kumar
+Author - Harshikesh Kumar (Gaurav Singh)
